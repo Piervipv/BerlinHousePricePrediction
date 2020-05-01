@@ -9,7 +9,7 @@ The Notebook consists of two parts:
 - Predict apartment price square meter (price_m2) using the features provided or your own features created.
 - In this challenge the accuracy of the result is not the most important thing. The main objective is to discuss about the pipeline followed (imputation, selection, training, testing ...)
 
-Original Imput Features:
+Original Imput Features of the DATASET (NOT PROVIDED):
 
 id: Unique identifier of the apartment| 
 property_type_id: always '3' (means apartment) | 
